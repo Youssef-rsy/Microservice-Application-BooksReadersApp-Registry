@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: Registry
+  cloud:
+    config:
+      uri: https://serviceconfiguration.herokuapp.com
