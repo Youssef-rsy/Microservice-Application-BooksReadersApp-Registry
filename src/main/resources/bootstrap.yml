@@ -3,4 +3,4 @@ spring:
     name: Registry
   cloud:
     config:
-      uri:https://configurationservice.herokuapp.com/
+      uri: https://configurationservice.herokuapp.com/
